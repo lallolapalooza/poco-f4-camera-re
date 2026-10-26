@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="flash_halo_hole_16_9_bottom_margin">182.85999dip</dimen>
+    <dimen name="flash_halo_hole_16_9_top_margin">12.189972dip</dimen>
+    <dimen name="flash_halo_hole_4_3_top_margin">68.56998dip</dimen>
+    <dimen name="flash_halo_hole_corner_radius">91.42999dip</dimen>
+    <dimen name="flash_halo_hole_full_bottom_margin">187.43dip</dimen>
+    <dimen name="flash_halo_hole_full_height">609.52344dip</dimen>
+    <dimen name="flash_halo_hole_full_top_margin">109.72dip</dimen>
+    <dimen name="flash_halo_hole_margin_left">64.359985dip</dimen>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.pocof4.camera.photo.TemporalMergeCoreTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-24T01:52:53" hostname="asdf-82ju" time="0.017">
+  <properties/>
+  <testcase name="outlierFrameIsRejectedByMedianGate" classname="dev.pocof4.camera.photo.TemporalMergeCoreTest" time="0.01"/>
+  <testcase name="mergeReducesNoiseVarianceVersusSingleFrame" classname="dev.pocof4.camera.photo.TemporalMergeCoreTest" time="0.003"/>
+  <testcase name="shadowLiftBrightensDarkTones" classname="dev.pocof4.camera.photo.TemporalMergeCoreTest" time="0.001"/>
+  <testcase name="alignedMergeRestoresTranslatedBurstFrames" classname="dev.pocof4.camera.photo.TemporalMergeCoreTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

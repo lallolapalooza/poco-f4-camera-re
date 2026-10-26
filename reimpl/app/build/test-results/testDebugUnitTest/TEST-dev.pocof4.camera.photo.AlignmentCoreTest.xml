@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.pocof4.camera.photo.AlignmentCoreTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-24T01:52:53" hostname="asdf-82ju" time="0.042">
+  <properties/>
+  <testcase name="flatFramesReturnZeroShift" classname="dev.pocof4.camera.photo.AlignmentCoreTest" time="0.016"/>
+  <testcase name="identicalFramesReturnZeroShift" classname="dev.pocof4.camera.photo.AlignmentCoreTest" time="0.01"/>
+  <testcase name="recoversInjectedTranslation" classname="dev.pocof4.camera.photo.AlignmentCoreTest" time="0.012"/>
+  <testcase name="recoversNegativeTranslationOnSecondPattern" classname="dev.pocof4.camera.photo.AlignmentCoreTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

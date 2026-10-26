@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/miuix_preference_rv_bottom_padding" android:layout_marginBottom="@dimen/miuix_preference_rv_bottom_padding" android:layout_marginStart="@dimen/miuix_preference_item_padding_start" android:layout_marginEnd="@dimen/miuix_preference_item_padding_end" app:cardBackgroundColor="@color/cv_watermark_color" app:cardCornerRadius="@dimen/miuix_preference_main_icon_padding_end" app:cardElevation="0.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <androidx.cardview.widget.CardView android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/miuix_preference_rv_top_padding" app:cardCornerRadius="@dimen/miuix_preference_rv_top_padding" app:cardElevation="0.0dip">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <ImageView android:id="@id/iv_photo" android:layout_width="fill_parent" android:layout_height="wrap_content" android:src="@drawable/ic_cv_sample" />
+            <ImageView android:id="@id/iv_watermark" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        </LinearLayout>
+    </androidx.cardview.widget.CardView>
+</androidx.cardview.widget.CardView>

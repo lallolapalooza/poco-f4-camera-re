@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.pocof4.camera.ai.SceneDebouncerTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2026-10-24T01:52:53" hostname="asdf-82ju" time="0.002">
+  <properties/>
+  <testcase name="twoSamplesInsideThreeHundredMillisAreNotEnough" classname="dev.pocof4.camera.ai.SceneDebouncerTest" time="0.001"/>
+  <testcase name="unknownSceneIsDebouncedLikeAnyOther" classname="dev.pocof4.camera.ai.SceneDebouncerTest" time="0.0"/>
+  <testcase name="leavingIdCardIsThrottledForThreeSeconds" classname="dev.pocof4.camera.ai.SceneDebouncerTest" time="0.0"/>
+  <testcase name="repeatedSceneIsSuppressed" classname="dev.pocof4.camera.ai.SceneDebouncerTest" time="0.0"/>
+  <testcase name="resetDropsCandidateAndPublishedScene" classname="dev.pocof4.camera.ai.SceneDebouncerTest" time="0.0"/>
+  <testcase name="sceneChangeAfterStableSceneEmits" classname="dev.pocof4.camera.ai.SceneDebouncerTest" time="0.0"/>
+  <testcase name="flickeringScenesNeverEmit" classname="dev.pocof4.camera.ai.SceneDebouncerTest" time="0.0"/>
+  <testcase name="enteringIdCardIsNotDelayed" classname="dev.pocof4.camera.ai.SceneDebouncerTest" time="0.0"/>
+  <testcase name="firstSceneNeedsTwoSamples" classname="dev.pocof4.camera.ai.SceneDebouncerTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

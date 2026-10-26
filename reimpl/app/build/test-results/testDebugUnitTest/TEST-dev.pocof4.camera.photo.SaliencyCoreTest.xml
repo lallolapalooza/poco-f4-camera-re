@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.pocof4.camera.photo.SaliencyCoreTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-10-24T01:52:53" hostname="asdf-82ju" time="0.117">
+  <properties/>
+  <testcase name="saliencyMapLocalizesSyntheticSubject" classname="dev.pocof4.camera.photo.SaliencyCoreTest" time="0.071"/>
+  <testcase name="zeroStrengthIsIdentity" classname="dev.pocof4.camera.photo.SaliencyCoreTest" time="0.004"/>
+  <testcase name="renderKeepsSubjectSharpAndBlursBackground" classname="dev.pocof4.camera.photo.SaliencyCoreTest" time="0.042"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

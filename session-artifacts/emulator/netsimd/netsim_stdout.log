@@ -1,0 +1,163 @@
+Adding netsim_grpc listener on GRPC:127.0.0.1:41615
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1345            [38;2;255;250;240mDELETE_STORED_LINK_KEY command validation failed (c121,excluded)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1384            [38;2;255;250;240mLE_CREATE_BIG_TEST command validation failed (excluded,c41)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1409            [38;2;255;250;240mLE_ISO_READ_TEST_COUNTERS command validation failed (excluded,c46)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1410            [38;2;255;250;240mLE_ISO_RECEIVE_TEST command validation failed (excluded,c46)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1411            [38;2;255;250;240mLE_ISO_TEST_END command validation failed (excluded,c47)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1413            [38;2;255;250;240mLE_ISO_TRANSMIT_TEST command validation failed (excluded,c45)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1431            [38;2;255;250;240mLE_READ_ISO_LINK_QUALITY command validation failed (excluded,c50)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1432            [38;2;255;250;240mLE_READ_ISO_TX_SYNC command validation failed (excluded,c45)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1451            [38;2;255;250;240mLE_RECEIVER_TEST_V2 command validation failed (excluded,c13)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1464            [38;2;255;250;240mLE_REQUEST_PEER_SCA command validation failed (excluded,c44)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1480            [38;2;255;250;240mLE_SET_DATA_RELATED_ADDRESS_CHANGES command validation failed (excluded,c10)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1500            [38;2;255;250;240mLE_SET_PERIODIC_ADVERTISING_RECEIVE_ENABLE command validation failed (excluded,c32)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1516            [38;2;255;250;240mLE_TRANSMITTER_TEST_V2 command validation failed (excluded,c12)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1608            [38;2;255;250;240mREMOTE_NAME_REQUEST_CANCEL command validation failed (c106,excluded)[0m
+root-canal I 10-23 20:51:33.172 controller_properties.cc:1662            [38;2;255;250;240mWRITE_DEFAULT_ERRONEOUS_DATA_REPORTING command validation failed (c135,excluded)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1345            [38;2;255;250;240mDELETE_STORED_LINK_KEY command validation failed (c121,excluded)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1384            [38;2;255;250;240mLE_CREATE_BIG_TEST command validation failed (excluded,c41)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1409            [38;2;255;250;240mLE_ISO_READ_TEST_COUNTERS command validation failed (excluded,c46)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1410            [38;2;255;250;240mLE_ISO_RECEIVE_TEST command validation failed (excluded,c46)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1411            [38;2;255;250;240mLE_ISO_TEST_END command validation failed (excluded,c47)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1413            [38;2;255;250;240mLE_ISO_TRANSMIT_TEST command validation failed (excluded,c45)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1431            [38;2;255;250;240mLE_READ_ISO_LINK_QUALITY command validation failed (excluded,c50)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1432            [38;2;255;250;240mLE_READ_ISO_TX_SYNC command validation failed (excluded,c45)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1451            [38;2;255;250;240mLE_RECEIVER_TEST_V2 command validation failed (excluded,c13)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1464            [38;2;255;250;240mLE_REQUEST_PEER_SCA command validation failed (excluded,c44)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1480            [38;2;255;250;240mLE_SET_DATA_RELATED_ADDRESS_CHANGES command validation failed (excluded,c10)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1500            [38;2;255;250;240mLE_SET_PERIODIC_ADVERTISING_RECEIVE_ENABLE command validation failed (excluded,c32)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1516            [38;2;255;250;240mLE_TRANSMITTER_TEST_V2 command validation failed (excluded,c12)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1608            [38;2;255;250;240mREMOTE_NAME_REQUEST_CANCEL command validation failed (c106,excluded)[0m
+root-canal I 10-23 20:51:33.173 controller_properties.cc:1662            [38;2;255;250;240mWRITE_DEFAULT_ERRONEOUS_DATA_REPORTING command validation failed (c135,excluded)[0m
+root-canal I 10-23 20:51:33.173 dual_mode_controller.cc:273         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;255;250;240mupdating the invalid packet handler[0m
+root-canal D 10-23 20:51:45.413 dual_mode_controller.cc:329         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Reset[0m
+root-canal D 10-23 20:51:45.415 dual_mode_controller.cc:487         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Supported Features[0m
+root-canal D 10-23 20:51:45.415 dual_mode_controller.cc:431         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Version Information[0m
+root-canal D 10-23 20:51:45.416 dual_mode_controller.cc:467         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read BD_ADDR[0m
+root-canal D 10-23 20:51:45.416 dual_mode_controller.cc:477         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Supported Commands[0m
+root-canal D 10-23 20:51:45.417 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:45.417 dual_mode_controller.cc:857         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Inquiry Mode[0m
+root-canal D 10-23 20:51:45.417 dual_mode_controller.cc:858         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   inquiry_mode=RSSI_OR_EXTENDED[0m
+root-canal D 10-23 20:51:45.418 dual_mode_controller.cc:694         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Inquiry Response Transmit Power Level[0m
+root-canal D 10-23 20:51:45.418 dual_mode_controller.cc:509         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Extended Features[0m
+root-canal D 10-23 20:51:45.418 dual_mode_controller.cc:510         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   page_number=1[0m
+root-canal D 10-23 20:51:45.419 dual_mode_controller.cc:343         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Buffer Size[0m
+root-canal D 10-23 20:51:45.419 dual_mode_controller.cc:967         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Class of Device[0m
+root-canal D 10-23 20:51:45.420 dual_mode_controller.cc:1198        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Name[0m
+root-canal D 10-23 20:51:45.420 dual_mode_controller.cc:1247        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Voice Setting[0m
+root-canal D 10-23 20:51:45.421 dual_mode_controller.cc:1270        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Number of Supported Iac[0m
+root-canal D 10-23 20:51:45.421 dual_mode_controller.cc:1280        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Current Iac Lap[0m
+root-canal D 10-23 20:51:45.422 dual_mode_controller.cc:3556        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Connection Accept Timeout[0m
+root-canal D 10-23 20:51:45.422 dual_mode_controller.cc:1921        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Local Supported Features Page 0[0m
+root-canal D 10-23 20:51:45.422 dual_mode_controller.cc:1600        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Buffer Size V2[0m
+root-canal D 10-23 20:51:45.423 dual_mode_controller.cc:2791        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Supported States[0m
+root-canal D 10-23 20:51:45.424 dual_mode_controller.cc:833         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Set Event Mask[0m
+root-canal D 10-23 20:51:45.424 dual_mode_controller.cc:834         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   event_mask=0x3cbff807fffbffff[0m
+root-canal D 10-23 20:51:45.424 dual_mode_controller.cc:1103        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Default Link Policy Settings[0m
+root-canal D 10-23 20:51:45.424 dual_mode_controller.cc:1104        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   default_link_policy_settings=0x7[0m
+root-canal D 10-23 20:51:45.425 dual_mode_controller.cc:1301        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Page Scan Activity[0m
+root-canal D 10-23 20:51:45.425 dual_mode_controller.cc:869         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Page Scan Type[0m
+root-canal D 10-23 20:51:45.425 dual_mode_controller.cc:509         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Extended Features[0m
+root-canal D 10-23 20:51:45.425 dual_mode_controller.cc:510         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   page_number=2[0m
+root-canal D 10-23 20:51:45.426 dual_mode_controller.cc:1528        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Set Event Mask[0m
+root-canal D 10-23 20:51:45.426 dual_mode_controller.cc:1529        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   le_event_mask=0x3f021eff[0m
+root-canal D 10-23 20:51:45.426 dual_mode_controller.cc:2728        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Transmit Power[0m
+root-canal D 10-23 20:51:45.427 dual_mode_controller.cc:2147        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Filter Accept List Size[0m
+root-canal D 10-23 20:51:45.427 dual_mode_controller.cc:2157        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Clear Filter Accept List[0m
+root-canal D 10-23 20:51:45.427 dual_mode_controller.cc:2209        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Resolving List Size[0m
+root-canal D 10-23 20:51:45.428 dual_mode_controller.cc:2198        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Clear Resolving List[0m
+root-canal D 10-23 20:51:45.428 dual_mode_controller.cc:1909        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Set Resolvable Private Address Timeout[0m
+root-canal D 10-23 20:51:45.429 dual_mode_controller.cc:2253        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Maximum Data Length[0m
+root-canal D 10-23 20:51:45.429 dual_mode_controller.cc:2323        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Suggested Default Data Length[0m
+root-canal D 10-23 20:51:45.430 dual_mode_controller.cc:3470        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Number of Supported Advertising Sets[0m
+root-canal D 10-23 20:51:45.430 dual_mode_controller.cc:1573        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Set Host Feature[0m
+root-canal D 10-23 20:51:45.430 dual_mode_controller.cc:1574        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   bit_number=32[0m
+root-canal D 10-23 20:51:45.430 dual_mode_controller.cc:1575        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   bit_value=1[0m
+root-canal D 10-23 20:51:45.430 dual_mode_controller.cc:1503        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Delete Stored Link Key[0m
+root-canal D 10-23 20:51:45.431 dual_mode_controller.cc:724         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Set Event Mask Page 2[0m
+root-canal D 10-23 20:51:45.431 dual_mode_controller.cc:725         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   event_mask_page_2=0x800000[0m
+root-canal D 10-23 20:51:45.431 dual_mode_controller.cc:497         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Supported Codecs V1[0m
+root-canal D 10-23 20:51:45.432 dual_mode_controller.cc:2334        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Write Suggested Default Data Length[0m
+root-canal D 10-23 20:51:45.432 dual_mode_controller.cc:2283        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Set Default Phy[0m
+root-canal D 10-23 20:51:50.301 dual_mode_controller.cc:329         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Reset[0m
+root-canal D 10-23 20:51:50.324 dual_mode_controller.cc:329         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Reset[0m
+root-canal D 10-23 20:51:50.327 dual_mode_controller.cc:833         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Set Event Mask[0m
+root-canal D 10-23 20:51:50.327 dual_mode_controller.cc:834         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   event_mask=0x3dbfffffffffffff[0m
+root-canal D 10-23 20:51:50.336 dual_mode_controller.cc:805         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write LE Host Support[0m
+root-canal D 10-23 20:51:50.336 dual_mode_controller.cc:807         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   le_supported_host=true[0m
+root-canal D 10-23 20:51:50.338 dual_mode_controller.cc:1198        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Name[0m
+root-canal D 10-23 20:51:50.340 dual_mode_controller.cc:431         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Version Information[0m
+root-canal D 10-23 20:51:50.340 dual_mode_controller.cc:477         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Supported Commands[0m
+root-canal D 10-23 20:51:50.344 dual_mode_controller.cc:1921        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Local Supported Features Page 0[0m
+root-canal D 10-23 20:51:50.347 dual_mode_controller.cc:2791        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Supported States[0m
+root-canal D 10-23 20:51:50.348 dual_mode_controller.cc:509         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Extended Features[0m
+root-canal D 10-23 20:51:50.348 dual_mode_controller.cc:510         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   page_number=0[0m
+root-canal D 10-23 20:51:50.349 dual_mode_controller.cc:509         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Extended Features[0m
+root-canal D 10-23 20:51:50.349 dual_mode_controller.cc:510         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   page_number=1[0m
+root-canal D 10-23 20:51:50.351 dual_mode_controller.cc:509         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Extended Features[0m
+root-canal D 10-23 20:51:50.351 dual_mode_controller.cc:510         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   page_number=2[0m
+root-canal D 10-23 20:51:50.353 dual_mode_controller.cc:1528        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Set Event Mask[0m
+root-canal D 10-23 20:51:50.353 dual_mode_controller.cc:1529        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   le_event_mask=0x74d02fe7f[0m
+root-canal D 10-23 20:51:50.356 dual_mode_controller.cc:343         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Buffer Size[0m
+root-canal D 10-23 20:51:50.356 dual_mode_controller.cc:1600        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Buffer Size V2[0m
+root-canal D 10-23 20:51:50.357 dual_mode_controller.cc:2147        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Filter Accept List Size[0m
+root-canal D 10-23 20:51:50.357 dual_mode_controller.cc:2209        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Resolving List Size[0m
+root-canal D 10-23 20:51:50.358 dual_mode_controller.cc:2253        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Maximum Data Length[0m
+root-canal D 10-23 20:51:50.358 dual_mode_controller.cc:775         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Simple Pairing Mode[0m
+root-canal D 10-23 20:51:50.358 dual_mode_controller.cc:777         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   simple_pairing_mode=true[0m
+root-canal D 10-23 20:51:50.359 dual_mode_controller.cc:819         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Secure Connections Host Support[0m
+root-canal D 10-23 20:51:50.359 dual_mode_controller.cc:821         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   secure_connections_host_support=true[0m
+root-canal D 10-23 20:51:50.695 dual_mode_controller.cc:2323        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Suggested Default Data Length[0m
+root-canal D 10-23 20:51:50.696 dual_mode_controller.cc:3460        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Maximum Advertising Data Length[0m
+root-canal D 10-23 20:51:50.697 dual_mode_controller.cc:3470        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Number of Supported Advertising Sets[0m
+root-canal D 10-23 20:51:50.697 dual_mode_controller.cc:2658        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Read Periodic Advertiser List Size[0m
+root-canal D 10-23 20:51:50.698 dual_mode_controller.cc:1573        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Set Host Feature[0m
+root-canal D 10-23 20:51:50.698 dual_mode_controller.cc:1574        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   bit_number=32[0m
+root-canal D 10-23 20:51:50.698 dual_mode_controller.cc:1575        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   bit_value=1[0m
+root-canal D 10-23 20:51:50.699 dual_mode_controller.cc:1573        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Set Host Feature[0m
+root-canal D 10-23 20:51:50.699 dual_mode_controller.cc:1574        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   bit_number=38[0m
+root-canal D 10-23 20:51:50.699 dual_mode_controller.cc:1575        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   bit_value=1[0m
+root-canal D 10-23 20:51:50.699 dual_mode_controller.cc:2883        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Get Vendor Capabilities[0m
+root-canal D 10-23 20:51:50.700 dual_mode_controller.cc:467         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read BD_ADDR[0m
+root-canal D 10-23 20:51:50.702 dual_mode_controller.cc:3151        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE APCF Read Extended Features[0m
+root-canal D 10-23 20:51:50.772 dual_mode_controller.cc:1909        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Set Resolvable Private Address Timeout[0m
+root-canal D 10-23 20:51:50.773 dual_mode_controller.cc:1103        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Default Link Policy Settings[0m
+root-canal D 10-23 20:51:50.773 dual_mode_controller.cc:1104        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   default_link_policy_settings=0x7[0m
+root-canal D 10-23 20:51:50.774 dual_mode_controller.cc:857         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Inquiry Mode[0m
+root-canal D 10-23 20:51:50.774 dual_mode_controller.cc:858         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   inquiry_mode=RSSI_OR_EXTENDED[0m
+root-canal D 10-23 20:51:50.775 dual_mode_controller.cc:880         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Page Scan Type[0m
+root-canal D 10-23 20:51:50.775 dual_mode_controller.cc:882         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   page_scan_type=INTERLACED[0m
+root-canal D 10-23 20:51:50.776 dual_mode_controller.cc:903         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Inquiry Scan Type[0m
+root-canal D 10-23 20:51:50.776 dual_mode_controller.cc:905         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   inquiry_scan_type=INTERLACED[0m
+root-canal D 10-23 20:51:50.776 dual_mode_controller.cc:977         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Class of Device[0m
+root-canal D 10-23 20:51:50.776 dual_mode_controller.cc:978         [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   class_of_device=0x5a020c[0m
+root-canal D 10-23 20:51:50.777 dual_mode_controller.cc:1000        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Page Timeout[0m
+root-canal D 10-23 20:51:50.777 dual_mode_controller.cc:1001        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   page_timeout=8192[0m
+root-canal D 10-23 20:51:50.777 dual_mode_controller.cc:2883        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Get Vendor Capabilities[0m
+root-canal D 10-23 20:51:50.778 dual_mode_controller.cc:1198        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Read Local Name[0m
+root-canal D 10-23 20:51:50.793 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.798 dual_mode_controller.cc:1208        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Local Name[0m
+root-canal D 10-23 20:51:50.799 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.799 dual_mode_controller.cc:2781        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Rand[0m
+root-canal D 10-23 20:51:50.800 dual_mode_controller.cc:1932        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< LE Set Random Address[0m
+root-canal D 10-23 20:51:50.800 dual_mode_controller.cc:1933        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   random_address=69:d9:43:ae:7a:b7[0m
+root-canal D 10-23 20:51:50.918 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.929 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.929 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.946 dual_mode_controller.cc:1257        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Voice Setting[0m
+root-canal D 10-23 20:51:50.946 dual_mode_controller.cc:1258        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   voice_setting=0x60[0m
+root-canal D 10-23 20:51:50.947 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.947 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.972 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.972 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.974 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.976 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.983 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.985 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m
+root-canal D 10-23 20:51:50.989 dual_mode_controller.cc:1335        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Inquiry Scan Activity[0m
+root-canal D 10-23 20:51:50.991 dual_mode_controller.cc:1359        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Scan Enable[0m
+root-canal D 10-23 20:51:50.991 dual_mode_controller.cc:1360        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   scan_enable=NO_SCANS[0m
+root-canal D 10-23 20:51:50.991 dual_mode_controller.cc:1313        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Page Scan Activity[0m
+root-canal D 10-23 20:51:50.992 dual_mode_controller.cc:1359        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Scan Enable[0m
+root-canal D 10-23 20:51:50.992 dual_mode_controller.cc:1360        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m   scan_enable=PAGE_SCAN_ONLY[0m
+root-canal D 10-23 20:51:51.020 dual_mode_controller.cc:1219        [38;2;000;000;000m[48;2;095;158;160m  0 [0m [38;2;105;105;105m<< Write Extended Inquiry Response[0m

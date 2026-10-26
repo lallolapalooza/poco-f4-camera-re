@@ -1,0 +1,89 @@
+netsim I 10-24 01:51:32.174 netsimd.rs:411 - netsim artifacts path: "/tmp/android-asdf/netsimd"
+netsim I 10-24 01:51:32.174 netsimd.rs:412 - Args {
+    fd_startup_str: None,
+    connector_instance: None,
+    instance: None,
+    logtostderr: false,
+    dev: false,
+    no_cli_ui: true,
+    no_web_ui: false,
+    http_proxy: None,
+    no_shutdown: false,
+    idle_shutdown_timeout: None,
+    startup_timeout: None,
+    pcap: false,
+    disable_address_reuse: false,
+    verbose: false,
+    version: false,
+    grpc_port: None,
+    grpc_uds_path: None,
+    hci_port: None,
+    tcp_port: None,
+    ws_port: None,
+    host_dns: Some(
+        "10.2.0.1,2a07:b944::2:1",
+    ),
+    forward_host_mdns: false,
+    test_beacons: false,
+    no_test_beacons: false,
+    wifi: WifiConfig {
+        wifi_ssid: None,
+        wifi_password: None,
+        wifi_channel: None,
+        wifi_beacon_interval: None,
+        wifi_mode: None,
+        wifi_tap: None,
+        wifi_cvd_tap: false,
+    },
+}
+netsim I 10-24 01:51:32.174 netsimd.rs:415 - Netsim Version: 1.0.23, OS: linux, Arch: x86_64
+netsim I 10-24 01:51:32.174 netsimd.rs:457 - Acquired lock (Owner)
+netsim I 10-24 01:51:32.174 netsimd.rs:458 - INI file path: /run/user/1000/netsim.ini
+netsim I 10-24 01:51:32.174 nfc_actor.rs:69 - In-process Casimir scene started
+netsim I 10-24 01:51:32.176 server.rs:101 - Rust gRPC listening on localhost:0
+netsim I 10-24 01:51:32.176 netsimd.rs:281 - gRPC port: 41615
+netsim I 10-24 01:51:32.176 netsimd.rs:708 - Wrote to INI file /run/user/1000/netsim.ini
+netsim I 10-24 01:51:32.176 server.rs:22 - Hci socket server is listening on: 6402
+netsim I 10-24 01:51:32.176 lifecycle.rs:23 - WifiActor started
+netsim I 10-24 01:51:32.176 lifecycle.rs:12 - EthernetActor starting
+netsim I 10-24 01:51:32.176 lifecycle.rs:14 - ApActor started
+netsim I 10-24 01:51:32.176 lifecycle.rs:11 - SlirpActor starting
+netsim I 10-24 01:51:32.176 lifecycle.rs:22 - NfcActor started
+netsim I 10-24 01:51:32.176 service.rs:54 - Created AP with ID: 0
+netsim I 10-24 01:51:32.176 lifecycle.rs:17 - UwbActor starting Pica run loop
+netsim I 10-24 01:51:32.176 lifecycle.rs:34 - DeviceActor: Scheduling startup timeout for 15s
+netsim I 10-24 01:51:32.176 service.rs:180 - Registering AP singleton stream/sink with interval: 100ms
+netsim I 10-24 01:51:32.176 netsimd.rs:930 - Netsimd started 
+netsim I 10-24 01:51:32.176 service.rs:225 - SlirpActor: Registering client 4294967294
+netsim I 10-24 01:51:32.176 libslirp.rs:956 - libslirp: initialization completed.
+netsim I 10-24 01:51:33.165 netsimd.rs:941 - Accepted connection on netsim_grpc:
+netsim I 10-24 01:51:33.165 netsimd.rs:941 - Accepted connection on netsim_grpc:
+netsim I 10-24 01:51:33.165 netsimd.rs:89 - Handling new connection for "poco34", device poco34
+netsim I 10-24 01:51:33.165 netsimd.rs:89 - Handling new connection for "poco34", device poco34
+netsim I 10-24 01:51:33.165 avd_config.rs:227 - Assigned persistent MAC BB:BB:BB:00:00:02 to AVD /home/asdf/.android/avd/poco34.ini
+netsim I 10-24 01:51:33.165 avd_config.rs:227 - Assigned persistent MAC BB:BB:BB:00:00:02 to AVD /home/asdf/.android/avd/poco34.ini
+netsim I 10-24 01:51:33.165 service.rs:673 - DeviceActor: AddChipByGuid for device ipv6:%5B::1%5D:48110
+netsim I 10-24 01:51:33.165 service.rs:634 - DeviceActor: Create device poco34
+netsim I 10-24 01:51:33.165 service.rs:580 - DeviceActor: AddChip poco34 (EMULATOR, poco34) to device poco34
+netsim I 10-24 01:51:33.172 core.rs:69 - Insert client 0
+netsim I 10-24 01:51:33.172 service.rs:673 - DeviceActor: AddChipByGuid for device ipv6:%5B::1%5D:48110
+netsim I 10-24 01:51:33.172 service.rs:580 - DeviceActor: AddChip poco34 (EMULATOR, poco34) to device poco34
+netsim I 10-24 01:51:55.541 core.rs:120 - Insert station with client id 0, hwsimaddr: 02:15:B2:00:00:00, Ieee80211 addr: 06:93:DB:ED:65:3A
+netsim I 10-24 01:52:00.186 core.rs:120 - Insert station with client id 0, hwsimaddr: 02:15:B2:00:00:00, Ieee80211 addr: 02:15:B2:00:00:00
+netsim I 10-24 01:52:00.186 ieee802_11.rs:274 - ApActor: Received Auth from 02:15:B2:00:00:00 Alg=0 Seq=1 Status=0
+netsim I 10-24 01:52:00.195 ieee802_11.rs:472 - ApActor: Received Assoc Req from 02:15:B2:00:00:00
+netsim I 10-24 01:52:00.195 ieee802_11.rs:533 - ApActor: Associated 02:15:B2:00:00:00
+netsim I 10-24 01:52:31.702 netsimd.rs:1043 - Termination signal received
+netsim I 10-24 01:52:31.702 netsimd.rs:971 - Shutting down gracefully...
+netsim I 10-24 01:52:31.702 netsimd.rs:853 - Graceful shutdown requested for all actors
+netsim I 10-24 01:52:31.702 slirp_actor.rs:228 - Shutting down Slirp backend instance
+netsim I 10-24 01:52:31.702 lifecycle.rs:28 - Shutting down Casimir scene task
+netsim I 10-24 01:52:31.703 lifecycle.rs:64 - WifiActor stopped
+netsim W 10-24 01:52:31.703 netsimd.rs:871 - ChipActor shutdown error: Failed to send command: Actor dropped response channel
+netsim I 10-24 01:52:31.703 lifecycle.rs:158 - WIFI_STREAM_ID closed, stopping ApActor
+netsim I 10-24 01:52:31.703 lifecycle.rs:42 - DeviceActor: Awaiting pending background stats write prior to shutdown
+netsim W 10-24 01:52:31.703 service.rs:325 - DeviceActor: Failed to get global stats for WIFI: Failed to send command: Actor send channel closed
+netsim W 10-24 01:52:31.703 service.rs:325 - DeviceActor: Failed to get global stats for UWB: Framework error: Actor send channel closed
+netsim I 10-24 01:52:31.703 lifecycle.rs:49 - DeviceActor: Awaiting final stats write
+netsim W 10-24 01:52:31.703 libslirp.rs:806 - Failed to send slirp PollResult cmd: sending on a closed channel
+netsim I 10-24 01:52:31.703 netsimd.rs:981 - NetsimDaemon main loop exited.

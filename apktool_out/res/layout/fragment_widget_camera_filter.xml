@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:background="@drawable/bg_widget_camera_filter" android:padding="@dimen/widget_root_padding" android:layout_width="fill_parent" android:layout_height="fill_parent" android:contentDescription="@string/widget_camera_filter_talk_back"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_marginBottom="10.0dip" android:layout_weight="1.0">
+        <ImageView android:id="@id/filter_LVIV" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_widget_filter_lviv" android:layout_weight="1.0" android:contentDescription="@string/color_effect_entry_l_vivid" android:layout_marginEnd="9.5dip" />
+        <ImageView android:id="@id/filter_LBWNAT" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_widget_filter_lbwnat" android:layout_weight="1.0" android:contentDescription="@string/color_effect_entry_monochrom" />
+    </LinearLayout>
+    <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <ImageView android:id="@id/filter_LNAT" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_widget_filter_lnat" android:layout_weight="1.0" android:contentDescription="@string/color_effect_entry_l_natrural" android:layout_marginEnd="9.5dip" />
+        <ImageView android:id="@id/filter_LBWHC" android:layout_width="0.0dip" android:layout_height="fill_parent" android:src="@drawable/ic_widget_filter_lbwhc" android:layout_weight="1.0" android:contentDescription="@string/color_effect_entry_monochrom_high_contrast" />
+    </LinearLayout>
+</LinearLayout>

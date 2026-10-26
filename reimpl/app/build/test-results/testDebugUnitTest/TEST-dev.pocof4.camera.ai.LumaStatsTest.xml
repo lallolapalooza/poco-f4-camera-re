@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.pocof4.camera.ai.LumaStatsTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2026-10-24T01:52:53" hostname="asdf-82ju" time="0.001">
+  <properties/>
+  <testcase name="rec601LumaMatchesPreviewPacking" classname="dev.pocof4.camera.ai.LumaStatsTest" time="0.0"/>
+  <testcase name="emptyInputIsZero" classname="dev.pocof4.camera.ai.LumaStatsTest" time="0.001"/>
+  <testcase name="uniformFrameHasEqualTopBottomAndMean" classname="dev.pocof4.camera.ai.LumaStatsTest" time="0.0"/>
+  <testcase name="topAndBottomThirdsAreSeparate" classname="dev.pocof4.camera.ai.LumaStatsTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

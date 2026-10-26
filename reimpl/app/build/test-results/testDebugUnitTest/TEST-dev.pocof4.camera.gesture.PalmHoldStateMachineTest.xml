@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-10-24T01:52:53" hostname="asdf-82ju" time="0.003">
+  <properties/>
+  <testcase name="nonPalmFramesResetHoldAndRequireAFreshWindow" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.001"/>
+  <testcase name="gapLongerThanMaxPalmGapRestartsHold" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.0"/>
+  <testcase name="triggerAtExactHoldBoundary" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.0"/>
+  <testcase name="nonPalmGesturesNeverFire" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.0"/>
+  <testcase name="customWindowsAreHonoured" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.0"/>
+  <testcase name="cooldownSuppressesImmediateRefire" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.0"/>
+  <testcase name="resetClearsHoldAndCooldown" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.0"/>
+  <testcase name="singlePalmFrameDoesNotTrigger" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.001"/>
+  <testcase name="palmBelowConfidenceThresholdIsIgnored" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.0"/>
+  <testcase name="duplicateAndJitteredTimestampsAreStaleAndDoNotDisturbHold" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.0"/>
+  <testcase name="gapEqualToMaxPalmGapKeepsHold" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.0"/>
+  <testcase name="sustainedPalmFiresExactlyOnce" classname="dev.pocof4.camera.gesture.PalmHoldStateMachineTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

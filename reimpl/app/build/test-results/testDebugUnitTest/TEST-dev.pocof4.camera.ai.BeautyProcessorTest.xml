@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.pocof4.camera.ai.BeautyProcessorTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2026-10-24T01:52:53" hostname="asdf-82ju" time="0.029">
+  <properties/>
+  <testcase name="strengthScalesBrightening" classname="dev.pocof4.camera.ai.BeautyProcessorTest" time="0.006"/>
+  <testcase name="alphaChannelIsPreservedForTransparentSkin" classname="dev.pocof4.camera.ai.BeautyProcessorTest" time="0.0"/>
+  <testcase name="strengthZeroLeavesPixelsUntouched" classname="dev.pocof4.camera.ai.BeautyProcessorTest" time="0.001"/>
+  <testcase name="flatSkinAreaIsBrightenedSlightly" classname="dev.pocof4.camera.ai.BeautyProcessorTest" time="0.001"/>
+  <testcase name="invalidStrengthIsClamped" classname="dev.pocof4.camera.ai.BeautyProcessorTest" time="0.0"/>
+  <testcase name="zeroMaskLeavesPixelsUntouched" classname="dev.pocof4.camera.ai.BeautyProcessorTest" time="0.0"/>
+  <testcase name="hardEdgesSurviveBlending" classname="dev.pocof4.camera.ai.BeautyProcessorTest" time="0.014"/>
+  <testcase name="flatInteriorStillGetsSmoothedAndBrightened" classname="dev.pocof4.camera.ai.BeautyProcessorTest" time="0.006"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

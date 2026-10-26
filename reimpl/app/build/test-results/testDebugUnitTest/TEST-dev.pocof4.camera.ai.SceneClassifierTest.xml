@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.pocof4.camera.ai.SceneClassifierTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2026-10-24T01:52:53" hostname="asdf-82ju" time="0.036">
+  <properties/>
+  <testcase name="labelNamesAreNormalized" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.018"/>
+  <testcase name="presentationWinsOverDocument" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.008"/>
+  <testcase name="moonLabelMapsToMoon" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.001"/>
+  <testcase name="darkFrameIsNightWithoutLabels" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.004"/>
+  <testcase name="lowConfidenceLabelIsRejected" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="strongBrightDocumentBecomesIdCard" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="documentStaysDocumentWhenNotCardShaped" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="backlitFrameNeverReportsReservedIds" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="frontCameraSuppressesPerson" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="nightLabelNeedsDimFrame" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="lowMoonConfidenceDoesNotWin" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="humanThresholdIsSevenPointFivePercent" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="plantAndFlowerUseSpecificIds" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="skyLabelMapsToSky" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="animalLabelsMapToAnimalIds" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="derivedRatios" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="candleOnlyInDarkFrame" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="backlitFrameWithWideFaceIsPerson" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="foodWinsOverSky" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="wideFaceIsPerson" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <testcase name="narrowFaceIsNotPerson" classname="dev.pocof4.camera.ai.SceneClassifierTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

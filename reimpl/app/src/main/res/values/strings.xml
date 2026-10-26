@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poco F4 Camera RE</string>
+    <string name="status_ready">Ready</string>
+    <string name="scene_unknown">Unknown</string>
+    <string name="shutter">Shutter</string>
+    <string name="settings">Settings</string>
+    <string name="palm_tip">Show your palm to the camera to start the timer</string>
+    <string name="voice_tip">Say \"Cheese!\" to take a photo</string>
+</resources>

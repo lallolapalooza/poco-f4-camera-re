@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poco F4 Camera RE</string>
+    <string name="palm_tip">Show your palm to the camera to start the timer</string>
+    <string name="scene_unknown">Unknown</string>
+    <string name="settings">Settings</string>
+    <string name="shutter">Shutter</string>
+    <string name="status_ready">Ready</string>
+    <string name="voice_tip">Say \"Cheese!\" to take a photo</string>
+    <style name="Theme.Pocof4Camera" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:statusBarColor">#00000000</item>
+        <item name="android:navigationBarColor">#00000000</item>
+        <item name="android:windowLightStatusBar">false</item>
+    </style>
+</resources>

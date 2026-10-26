@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" tests="21" skipped="0" failures="0" errors="0" timestamp="2026-10-24T01:52:53" hostname="asdf-82ju" time="0.011">
+  <properties/>
+  <testcase name="multi word phrase wins over its suffix" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.003"/>
+  <testcase name="trigger at exactly the debounce boundary is accepted" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="english language selects the english phrase set" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="non matching result neither consumes nor arms the debounce" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.001"/>
+  <testcase name="exact words match" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="reset clears debounce and consumption" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.001"/>
+  <testcase name="empty input does not match" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="word boundaries reject longer words" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="chinese does not match unrelated text or other language phrases" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.001"/>
+  <testcase name="chinese recognizes fullwidth punctuation" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="punctuation and quotes are ignored" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="keywords with trailing words still match" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.001"/>
+  <testcase name="unrelated speech does not match" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="second trigger inside debounce window is ignored" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.001"/>
+  <testcase name="chinese phrases match without spaces" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="match ignores debounce state" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="chinese language selects the chinese phrase set" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.001"/>
+  <testcase name="case is ignored" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="beginUtterance re-arms the per-utterance gate" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <testcase name="partial keyword does not match" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.001"/>
+  <testcase name="one trigger per utterance even after the debounce expires" classname="dev.pocof4.camera.voice.VoiceKeywordMatcherTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

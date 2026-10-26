@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <androidx.camera.view.PreviewView
+        android:id="@+id/previewView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/statusText"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:background="#66000000"
+                android:padding="8dp"
+                android:text="@string/status_ready"
+                android:textColor="#FFFFFF"
+                android:textSize="13sp" />
+
+            <Button
+                android:id="@+id/settingsButton"
+                style="?android:attr/borderlessButtonStyle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/settings"
+                android:textColor="#FFFFFF" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/sceneChip"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:background="#88000000"
+            android:paddingHorizontal="12dp"
+            android:paddingVertical="6dp"
+            android:text="@string/scene_unknown"
+            android:textColor="#FFD54F"
+            android:textSize="13sp"
+            android:visibility="gone" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1" />
+
+        <TextView
+            android:id="@+id/featureHint"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            android:gravity="center"
+            android:textColor="#CCFFFFFF"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/shutterButton"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:text="@string/shutter"
+            android:textSize="18sp" />
+    </LinearLayout>
+</FrameLayout>

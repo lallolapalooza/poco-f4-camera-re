@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="mode_select_margin_hor">50.0dip</dimen>
+    <dimen name="bottom_action_top_margin">280.89844dip</dimen>
+    <dimen name="bottom_action_top_margin_half">140.44998dip</dimen>
+</resources>

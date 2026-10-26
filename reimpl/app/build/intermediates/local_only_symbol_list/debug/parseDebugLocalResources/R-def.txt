@@ -1,0 +1,17 @@
+R_DEF: Internal format may change without notice
+local
+id featureHint
+id previewView
+id sceneChip
+id settingsButton
+id shutterButton
+id statusText
+layout activity_main
+string app_name
+string palm_tip
+string scene_unknown
+string settings
+string shutter
+string status_ready
+string voice_tip
+style Theme.Pocof4Camera

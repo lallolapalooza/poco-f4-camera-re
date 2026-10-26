@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <boolean name="pref_hand_gesture" value="true" />
+    <boolean name="pref_speech_shutter" value="true" />
+    <boolean name="pref_camera_ai_scene_mode_key" value="true" />
+    <boolean name="pref_camera_face_beauty_advanced_key" value="true" />
+    <boolean name="pref_ai_watermark" value="true" />
+    <boolean name="pref_camera_hdr_key" value="true" />
+    <boolean name="pref_camera_super_night_mode" value="true" />
+    <boolean name="pref_camera_portrait_blur" value="true" />
+</map>
